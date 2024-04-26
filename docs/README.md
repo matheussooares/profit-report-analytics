@@ -1,6 +1,8 @@
 # Relatório de Vendas
 O projeto tem como objetivo criar um relatório analítico de vendas e lucros, utilizando a base de dados [sample financials](https://github.com/julianazanelatto/power_bi_analyst/blob/main/dataset/Financial%20Sample.xlsx).
 
+A base de dados "Sample Financials" no Power BI é uma coleção de dados de exemplo projetada para fornecer aos usuários do Power BI a oportunidade de explorar e praticar análises financeiras. Essa base de dados fictícia é composta por dados simulados que representam as operações financeiras de uma empresa.
+
 ## Objetivos Específicos:
 - [X] Estruturar e definir um escopo do layout padrão para o dashboard
 - [X] Criar botões de navegação que fornecem navegabilidade
